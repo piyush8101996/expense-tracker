@@ -1,0 +1,15 @@
+.expenses {
+    padding: 1rem;
+    background-color: rgb(54, 56, 65);
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    
+  }
+  .btn{
+    background-color: red;
+    color: white;
+    border-radius: 2px solid red;
+    text-align: center;
+    height: 40px;
+  }
